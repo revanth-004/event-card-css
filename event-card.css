@@ -80,11 +80,11 @@ html {
   -webkit-text-fill-color: transparent;
 }
 
-.explore-more:hover {
+.card:hover .explore-more {
   gap: 5px;
 }
 
-.card:hover > .card-title {
+.card:hover .card-title {
   background-image: linear-gradient(to right, #3b82f6, #8b5cf6);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
