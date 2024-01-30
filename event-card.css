@@ -80,7 +80,7 @@ html {
   -webkit-text-fill-color: transparent;
 }
 
-.card:hover > .explore-more {
+.explore-more:hover {
   gap: 5px;
 }
 
